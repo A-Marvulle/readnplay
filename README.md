@@ -15,4 +15,5 @@ Trabalho de Conclusão de Curso de ADS - IFSP PTB
 </ul>
 
 No branch <a href="https://github.com/A-Marvulle/readnplay/tree/cod">cod</a> estão os códigos de cada uma das telas feitas no FlutterFlow.
-NO branch <a href="https://github.com/A-Marvulle/readnplay/tree/imagens">imagens</a> estão as capturas de tela da aplicação.
+
+No branch <a href="https://github.com/A-Marvulle/readnplay/tree/imagens">imagens</a> estão as capturas de tela da aplicação.
