@@ -17,3 +17,5 @@ Trabalho de Conclusão de Curso de ADS - IFSP PTB
 No branch <a href="https://github.com/A-Marvulle/readnplay/tree/cod">cod</a> estão os códigos de cada uma das telas feitas no FlutterFlow.
 
 No branch <a href="https://github.com/A-Marvulle/readnplay/tree/imagens">imagens</a> estão as capturas de tela da aplicação.
+
+Aqui esta o link para visualização na Web [Aqui](https://telas-app-l2m3n5.flutterflow.app/login). OBS.: Recomendamos que clique com o botão direito do mouse na tela, depois em Inspecionar e na parte superior escolher o dispositivo Iphone 14 Pro Max
